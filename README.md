@@ -1,4 +1,3 @@
-# 2D-Java-Shooter
 # A Zombie Shooter Game
 
 ## Shoot shoot  shoot!
